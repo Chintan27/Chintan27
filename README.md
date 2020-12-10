@@ -2,7 +2,7 @@
 
 - 🔭 Working on Helping Malls tackle COVID-19!
 - 🌱 Learning Kafka, Docker, Go Lang, ELK
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate on Anything
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 🎶 Ask me about music. Favorite Band: Led Zeppelin
 - 🖼️ I love travelling!
