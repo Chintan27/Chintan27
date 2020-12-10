@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: Think Twice, Code once.
-- 🖼️ I love travelling!.
+- 🖼️ I love travelling!
 
 ## Professional Activity 
 - 📰 Professionally, I work on Nodejs, Python and Go Lang. I'm always looking to make cool apps and open to freelancing.
@@ -21,12 +21,7 @@
 
 <br />
 
-
 I ❤️ to code and learn new technologies!
-
-
-<br />
-
 
 <img align="left" alt="Chintan27's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Chintan27&show_icons=true&hide_border=true" />
 
