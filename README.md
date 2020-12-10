@@ -4,7 +4,7 @@
 - 🌱 Learning Kafka, Docker, Go Lang, ELK
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: Think Twice, Code once.
+- 🎶 Ask me about music. Favorite Band: Led Zeppelin
 - 🖼️ I love travelling!
 
 ## Professional Activity 
@@ -23,8 +23,11 @@
 
 I ❤️ to code and learn new technologies!
 
-<img align="left" alt="Chintan27's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Chintan27&show_icons=true&hide_border=true" />
 
+## ♡ GitHub Stats  
+
+![dgs](https://github-readme-stats.vercel.app/api?username=Chintan27&show_icons=true)
+![dtl](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan27&layout=compact)
 
 [twitter]: https://twitter.com/chintan_27
 [instagram]: https://www.instagram.com/chintanrajguru/
