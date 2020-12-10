@@ -8,6 +8,7 @@
 - 🖼️ I love travelling!
 
 ## Professional Activity 
+- I ❤️ to code and learn new technologies!
 - 📰 Professionally, I work on Nodejs, Python and Go Lang. I'm always looking to make cool apps and open to freelancing.
 - 🔭 Exploring AWS, Kafka, Docker, Elastic Stack and ML / Data Science.
 - 💬 Want to talk with me? Toss me an email at chintan.rajguru27@gmail.com.
@@ -21,10 +22,8 @@
 
 <br />
 
-I ❤️ to code and learn new technologies!
 
-
-## ♡ GitHub Stats  
+## GitHub Stats  
 
 ![dgs](https://github-readme-stats.vercel.app/api?username=Chintan27&show_icons=true)
 ![dtl](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan27&layout=compact)
