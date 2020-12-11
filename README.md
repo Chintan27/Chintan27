@@ -31,3 +31,5 @@
 [twitter]: https://twitter.com/chintan_27
 [instagram]: https://www.instagram.com/chintanrajguru/
 [linkedin]: https://www.linkedin.com/in/chintanrajguru/
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Chintan27" alt="Chintan27"/></p>
