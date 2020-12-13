@@ -1,7 +1,7 @@
 ### Hi there, I'm Chintan
 
 - 🔭 Working on Helping Malls tackle COVID-19!
-- 🌱 Learning <b>Kafka, Docker, Go Lang, ELK</b>
+- 🌱 Learning <b>Kafka, Docker, Go Lang, ELK, AWS</b>
 - 👯 I’m looking to collaborate on Anything
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 🎶 Ask me about music. Favorite Band: Led Zeppelin
