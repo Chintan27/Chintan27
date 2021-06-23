@@ -9,7 +9,7 @@
 
 ## Professional Activity 
 - I ❤️ to code and learn new technologies!
-- 📰 Professionally, I work on <b>Nodejs, Python and Go Lang</b>. I'm always looking to make cool apps and open to freelancing.
+- 📰 Professionally, I work on <b>Node.js, Python and Go Lang</b>. I'm always looking to make cool apps and open to freelancing.
 - 🔭 Exploring AWS, Kafka, Docker, Elastic Stack and ML / Data Science.
 - 💬 Want to talk with me? Toss me an email at chintan.rajguru27@gmail.com.
 
