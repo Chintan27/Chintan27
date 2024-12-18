@@ -22,12 +22,6 @@
 
 <br />
 
-
-## GitHub Stats  
-
-![dgs](https://github-readme-stats.vercel.app/api?username=Chintan27&show_icons=true)
-![dtl](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan27&layout=compact)
-
 [twitter]: https://twitter.com/chintan_27
 [instagram]: https://www.instagram.com/chintanrajguru/
 [linkedin]: https://www.linkedin.com/in/chintanrajguru/
