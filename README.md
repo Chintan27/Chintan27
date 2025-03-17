@@ -3,7 +3,7 @@
 - 🔭 Building Loyalty Programs!
 - 🌱 Learning <b>Kafka, Docker, Go Lang, ELK, AWS</b>
 - 👯 I’m looking to collaborate on Anything
-- 🥅 2024 Goals: Contribute to Open Source projects
+- 🥅 2025 Goals: Contribute to Open Source projects
 - 🎶 Ask me about music. Favorite Band: Led Zeppelin
 - 🖼️ I love travelling!
 
