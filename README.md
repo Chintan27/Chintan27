@@ -31,12 +31,6 @@
 ![cicd](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge)
 
 
-### Connect with me:
-
-[<img align="left" alt="Chintan27 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Chintan27 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Chintan27 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 [twitter]: https://twitter.com/chintan_27
@@ -48,4 +42,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chintan27&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan27&layout=compact&theme=gotham&custom_title=Statistics)  
 ![ViewCount](https://komarev.com/ghpvc/?username=Chintan27&color=1A4730)
+
+### Connect with me:
+
+[<img align="left" alt="Chintan27 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Chintan27 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Chintan27 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
