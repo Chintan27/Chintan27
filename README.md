@@ -26,9 +26,3 @@
 [instagram]: https://www.instagram.com/chintanrajguru/
 [linkedin]: https://www.linkedin.com/in/chintanrajguru/
 
-<br />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chintan27&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan27&layout=compact&theme=gotham&custom_title=Statistics)  
-![ViewCount](https://komarev.com/ghpvc/?username=Chintan27&color=1A4730)
-
-
